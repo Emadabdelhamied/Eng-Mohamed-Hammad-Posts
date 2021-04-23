@@ -59,7 +59,7 @@ Post 1 | [link](https://m.facebook.com/story.php?story_fbid=5289265864479254&id=
 Post 2 | [link](https://m.facebook.com/story.php?story_fbid=5281246405281200&id=100001876777351)
 Post 3 | [link](https://m.facebook.com/story.php?story_fbid=5157997727606069&id=100001876777351)
 FP Playlist | [link](https://www.youtube.com/watch?v=9bW8dp1M1Ac&list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
-FP examples | [linl](https://github.com/mohamedSabry0/functional_programming_examples)
+FP examples | [link](https://github.com/mohamedSabry0/functional_programming_examples)
 
 
 
